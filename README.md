@@ -6,7 +6,7 @@ Team 1 : java console project
 <table>
     <tr>
         <td>프로젝트 명</td>
-        <td>~</td>
+        <td>쌍용 문화센터 관리 프로그램</td>
         <td>개발기간</td>
         <td></td>
     </tr>
