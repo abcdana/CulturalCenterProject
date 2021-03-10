@@ -17,7 +17,7 @@ Team 1 : java console project
         <td>~</td>
     </tr>
     <tr>
-        <td colspan="4">사용한 skill 또는 지식</td>
+        <td colspan="4" style="text-align:center;">사용한 skill 또는 지식</td>
     </tr>
     <tr>
         <td>개발언어</td>
